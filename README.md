@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @irli3812
+- 👋 Hi, I’m Iris!
 - 👀 I’m interested in medicine, fitness, music, and friendship
 - 🌱 I’m an expert in biomedical engineering, electrical engineering, and neuroscience -- although always learning
 - 💞️ I’m looking to collaborate on MATLAB and Python stuff!
